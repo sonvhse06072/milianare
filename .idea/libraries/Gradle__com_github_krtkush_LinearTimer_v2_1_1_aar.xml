@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.krtkush:LinearTimer:v2.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fbc8f40b406060580e6307f49fd0c20/LinearTimer-v2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fbc8f40b406060580e6307f49fd0c20/LinearTimer-v2.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.krtkush/LinearTimer/v2.1.1/814d7b0d86ea5641239e12514090c18bc928bf08/LinearTimer-v2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.krtkush/LinearTimer/v2.1.1/f585c7f17cc12b7249c623745aef57aa29b6f162/LinearTimer-v2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
