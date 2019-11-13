@@ -48,32 +48,31 @@
 
 
         <TextView
-            android:id="@+id/telefoncevap"
+            android:id="@+id/answerLayout"
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:layout_weight="2"
+            android:layout_gravity="center"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:gravity="top"
-            android:layout_gravity="center"
-            android:background="@drawable/telefoncevaparka"
-            android:paddingLeft="50dp"
-            android:paddingRight="50dp"
-            android:paddingTop="30dp"
-            android:text="denenensadasd"
             android:layout_marginBottom="10dp"
+            android:layout_weight="2"
+            android:background="@drawable/telefoncevaparka"
+            android:gravity="top"
+            android:paddingLeft="50dp"
+            android:paddingTop="30dp"
+            android:paddingRight="50dp"
             android:textColor="@android:color/white"
             android:textStyle="bold" />
 
         <Button
-            android:id="@+id/tamam"
+            android:id="@+id/thankbtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center|bottom"
-            android:background="@drawable/girisbutton"
+            android:background="@drawable/switchcontainer"
             android:text="@string/thanks"
             android:textAllCaps="false"
-            android:textColor="@drawable/girisbuttontextcolor" />
+            android:textColor="@android:color/white" />
 
     </LinearLayout>
 

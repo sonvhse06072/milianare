@@ -1,7 +1,5 @@
 <resources>
-
-
-    <string name="app_name">Who Wants to be Millionarie</string>
+    <string name="app_name">Milionare</string>
     <string name="start_game">START GAME</string>
     <string name="my_score">BAŞARIM</string>
     <string name="highest_score">HIGHEST SCORES</string>
@@ -34,15 +32,9 @@
     <string name="clearall">Clear</string>
     <string name="duetodate">To Date</string>
     <string name="seeit">See</string>
-    <string name="firstprogramad">Kpss Günlüğüm</string>
-    <string name="secondprogramad">Yds Kelime Ezberle Test Çöz</string>
-    <string name="thirdprogramad">Son Dakika Haber Oku</string>
-    <string name="fourthprogramad">Yes or No Game</string>
     <string name="other_programs">Other Programs</string>
     <string name="game_over_final">Congratulations!!! You Complete the Millionaire Competition Successfully</string>
     <string name="sound">Sound</string>
     <string name="interstitial_full_screen">ca-app-pub-7128529153485643/8232447858</string>
     <string name="thanks">Thank you!</string>
-
-
 </resources>

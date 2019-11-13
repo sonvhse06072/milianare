@@ -1,246 +1,246 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kolaysorular>
-    <sorular>
-        <soru>1 + 1 = ?</soru>
+<questionbank>
+    <questcontainer>
+        <quest>1 + 1 = ?</quest>
         <a>1</a>
         <b>0</b>
         <c>3</c>
         <d>2</d>
-        <cevap>4</cevap>
-    </sorular>
+        <answer>4</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Where is the capital of Viet Nam?</soru>
+    <questcontainer>
+        <quest>Where is the capital of Viet Nam?</quest>
         <a>HCM city</a>
         <b>Ha Noi</b>
         <c>Da Nang</c>
         <d>Hue</d>
-        <cevap>2</cevap>
-    </sorular>
+        <answer>2</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What district is Noi Bai airport in?</soru>
+    <questcontainer>
+        <quest>What district is Noi Bai airport in?</quest>
         <a>Soc Son</a>
         <b>Dong Anh</b>
         <c>Gia Lam</c>
         <d>Ha Dong</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>2 + 3 = ?</soru>
+    <questcontainer>
+        <quest>2 + 3 = ?</quest>
         <a>5</a>
         <b>1</b>
         <c>0</c>
         <d>6</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What does "WWW" means?</soru>
+    <questcontainer>
+        <quest>What does "WWW" means?</quest>
         <a>World Wide Web</a>
         <b>Web Week Web</b>
         <c>World Wrestling Web</c>
         <d>We Were Web</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What is the full name of Master KienLT?</soru>
+    <questcontainer>
+        <quest>What is the full name of Master KienLT?</quest>
         <a>Luu Thanh Kien</a>
         <b>Luong Trung Kien</b>
         <c>Le Thanh Kien</c>
         <d>Luong Tam Kien</d>
-        <cevap>2</cevap>
-    </sorular>
+        <answer>2</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What is real name of Ho Chi Minh?</soru>
+    <questcontainer>
+        <quest>What is real name of Ho Chi Minh?</quest>
         <a>Ho Chi Minh</a>
         <b>Nguyen Tat Thanh</b>
         <c>Nguyen Ai Quoc</c>
         <d>Nguyen Sinh Cung</d>
-        <cevap>4</cevap>
-    </sorular>
+        <answer>4</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>3 * 5 = ?</soru>
+    <questcontainer>
+        <quest>3 * 5 = ?</quest>
         <a>8</a>
         <b>-2</b>
         <c>10</c>
         <d>15</d>
-        <cevap>4</cevap>
-    </sorular>
+        <answer>4</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Which of the following film has character 'Thanos'?</soru>
+    <questcontainer>
+        <quest>Which of the following film has character 'Thanos'?</quest>
         <a>Batman</a>
         <b>Spider man</b>
         <c>Avenger: End Game</c>
         <d>Super Man</d>
-        <cevap>3</cevap>
-    </sorular>
+        <answer>3</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Who invented dynamite?</soru>
+    <questcontainer>
+        <quest>Who invented dynamite?</quest>
         <a>Enrico Ferml</a>
         <b>Albert Einstein</b>
         <c>Alfred Nobel</c>
         <d>Benjamin Franklin</d>
-        <cevap>3</cevap>
-    </sorular>
+        <answer>3</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Where in the human body is the eye?</soru>
+    <questcontainer>
+        <quest>Where in the human body is the eye?</quest>
         <a>In the head</a>
         <b>In the Liver</b>
         <c>In the Heart</c>
         <d>In the hand</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What is the symbol of Gold?</soru>
+    <questcontainer>
+        <quest>What is the symbol of Gold?</quest>
         <a>Gd</a>
         <b>Or</b>
         <c>Gi</c>
         <d>Au</d>
-        <cevap>4</cevap>
-    </sorular>
+        <answer>4</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Where would you find the stadium "Old Trafford"?</soru>
+    <questcontainer>
+        <quest>Where would you find the stadium "Old Trafford"?</quest>
         <a>Liverpool</a>
         <b>Manchester</b>
         <c>London</c>
         <d>Madrid</d>
-        <cevap>2</cevap>
-    </sorular>
+        <answer>2</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What is Huy's name?</soru>
+    <questcontainer>
+        <quest>What is Huy's name?</quest>
         <a>Huy</a>
         <b>Cong</b>
         <c>Duong</c>
         <d>Minh</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>which of the following is eatable?</soru>
+    <questcontainer>
+        <quest>which of the following is eatable?</quest>
         <a>table</a>
         <b>fruit</b>
         <c>pen</c>
         <d>laptop</d>
-        <cevap>2</cevap>
-    </sorular>
+        <answer>2</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Who was the ancient Egyptian god of the Sun?</soru>
+    <questcontainer>
+        <quest>Who was the ancient Egyptian god of the Sun?</quest>
         <a>Anubi</a>
         <b>Ra</b>
         <c>Horus</c>
         <d>Anulu</d>
-        <cevap>2</cevap>
-    </sorular>
+        <answer>2</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>C is the correct answer</soru>
+    <questcontainer>
+        <quest>C is the correct answer</quest>
         <a>sad</a>
         <b>sad</b>
         <c>happy</c>
         <d>sad</d>
-        <cevap>3</cevap>
-    </sorular>
+        <answer>3</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Thor is son of?</soru>
+    <questcontainer>
+        <quest>Thor is son of?</quest>
         <a>Odin</a>
         <b>Zeus</b>
         <c>Hera</c>
         <d>Loki</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Who is spider man?</soru>
+    <questcontainer>
+        <quest>Who is spider man?</quest>
         <a>John Cena</a>
         <b>Obama</b>
         <c>Peter Parker</c>
         <d>Trump</d>
-        <cevap>3</cevap>
-    </sorular>
+        <answer>3</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>A is correct answer</soru>
+    <questcontainer>
+        <quest>A is correct answer</quest>
         <a>answer</a>
         <b>wrong</b>
         <c>wrong</c>
         <d>wrong</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Who was the ancient Roman god of war?</soru>
+    <questcontainer>
+        <quest>Who was the ancient Roman god of war?</quest>
         <a>Ares</a>
         <b>Mercury</b>
         <c>Dionysus</c>
         <d>Mars</d>
-        <cevap>4</cevap>
-    </sorular>
+        <answer>4</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Who is Cupid's equivalent in Greek mythology?</soru>
+    <questcontainer>
+        <quest>Who is Cupid's equivalent in Greek mythology?</quest>
         <a>Apollo</a>
         <b>Eros</b>
         <c>Saturn</c>
         <d>Jupiter</d>
-        <cevap>2</cevap>
-    </sorular>
+        <answer>2</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What is the color of New York taxi?</soru>
+    <questcontainer>
+        <quest>What is the color of New York taxi?</quest>
         <a>Yellow</a>
         <b>Red</b>
         <c>Green</c>
         <d>Blue</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Bacchus and Dionysus are both the gods of what?</soru>
+    <questcontainer>
+        <quest>Bacchus and Dionysus are both the gods of what?</quest>
         <a>Wine</a>
         <b>Wisdom</b>
         <c>Warfare</c>
         <d>Sun</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>What is the nit of currency in Northern Ireland?</soru>
+    <questcontainer>
+        <quest>What is the nit of currency in Northern Ireland?</quest>
         <a>Pound</a>
         <b>Euro</b>
         <c>Dollar</c>
         <d>Lira</d>
-        <cevap>1</cevap>
-    </sorular>
+        <answer>1</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Who invented cinema?</soru>
+    <questcontainer>
+        <quest>Who invented cinema?</quest>
         <a>Brother Cinemas</a>
         <b>Brother Lumiere</b>
         <c>Brother Wright</c>
         <d>Brother Sandish</d>
-        <cevap>2</cevap>
-    </sorular>
+        <answer>2</answer>
+    </questcontainer>
 
-    <sorular>
-        <soru>Who was the character "Phan Quan" of the film "Nguoi Phan Xu"?</soru>
+    <questcontainer>
+        <quest>Who was the character "Phan Quan" of the film "Nguoi Phan Xu"?</quest>
         <a>Trung Quan</a>
         <b>Bui Anh Tuan</b>
         <c>Luong Bong</c>
         <d>Hoang Dung</d>
-        <cevap>4</cevap>
-    </sorular>
+        <answer>4</answer>
+    </questcontainer>
 
-</kolaysorular>
+</questionbank>
